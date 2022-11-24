@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "guava-31.1-jre.jar"
+        ],
+        "exclude": [
+            "d:\\GoogleDisk\\GeekBraims\\Java\\JavaSeminars\\google-common.jar",
+            "d:\\GoogleDisk\\GeekBraims\\Java\\JavaSeminars\\guava-31.1-jre.jar"
+        ]
+    }
+}
