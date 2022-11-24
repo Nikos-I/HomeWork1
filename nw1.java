@@ -1,8 +1,5 @@
 // Вычислить n-ое треугольного число(сумма чисел от 1 до n), n! (произведение чисел от 1 до n)
 
-
-
-
 import java.math.BigInteger;
 import java.util.Scanner;
 import com.google.common.math.BigIntegerMath;
